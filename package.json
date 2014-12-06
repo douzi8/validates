@@ -1,0 +1,34 @@
+{
+  "name": "validates",
+  "version": "1.0.1",
+  "description": "Match something through regexp or custom string, or validate it's true or false",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/douzi8/validates"
+  },
+  "keywords": [
+    "match",
+    "validate",
+    "string",
+    "regexp",
+    "matches",
+    "validates",
+    "email",
+    "url",
+    "ip"
+  ],
+  "author": "douzi <liaowei08@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douzi8/validates/issues"
+  },
+  "homepage": "https://github.com/douzi8/validates",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0"
+  }
+}
